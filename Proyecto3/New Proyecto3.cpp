@@ -7,6 +7,9 @@
 #include <limits>
 using namespace std;
 
+//it
+//it
+//nowoowhAYDkawudf
 
 class NumerosRacional{
 	public:
